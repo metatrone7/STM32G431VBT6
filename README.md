@@ -1,0 +1,2 @@
+# STM32G431VBT6
+STM32G431VBT6 default project
